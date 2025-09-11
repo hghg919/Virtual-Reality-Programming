@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC1\\Desktop\\Jhj_0999\\Jhj_0904\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E737CE37-4082-44C7-84A5-E63533ED5D8C}|Jhj_0904\\Jhj_0904.csproj|c:\\users\\pc1\\desktop\\jhj_0999\\jhj_0904\\jhj_0904\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E737CE37-4082-44C7-84A5-E63533ED5D8C}|Jhj_0904\\Jhj_0904.csproj|solutionrelative:jhj_0904\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Jhj_0999\\Jhj_0904\\Jhj_0904\\Program.cs",
+              "RelativeDocumentMoniker": "Jhj_0904\\Program.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Jhj_0999\\Jhj_0904\\Jhj_0904\\Program.cs",
+              "RelativeToolTip": "Jhj_0904\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:37:03.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\bin\Debug\net9.0\250911.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\bin\Debug\net9.0\250911.deps.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\bin\Debug\net9.0\250911.runtimeconfig.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\bin\Debug\net9.0\250911.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\bin\Debug\net9.0\250911.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\obj\Debug\net9.0\250911.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\obj\Debug\net9.0\250911.AssemblyInfoInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\obj\Debug\net9.0\250911.AssemblyInfo.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\obj\Debug\net9.0\250911.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\obj\Debug\net9.0\250911.sourcelink.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\obj\Debug\net9.0\250911.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\obj\Debug\net9.0\refint\250911.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\obj\Debug\net9.0\250911.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\obj\Debug\net9.0\250911.genruntimeconfig.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\250911\250911\obj\Debug\net9.0\ref\250911.dll

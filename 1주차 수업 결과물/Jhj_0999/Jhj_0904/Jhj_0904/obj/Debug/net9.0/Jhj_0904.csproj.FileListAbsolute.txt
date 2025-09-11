@@ -1,0 +1,14 @@
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\bin\Debug\net9.0\Jhj_0904.exe
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\bin\Debug\net9.0\Jhj_0904.deps.json
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\bin\Debug\net9.0\Jhj_0904.runtimeconfig.json
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\bin\Debug\net9.0\Jhj_0904.dll
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\bin\Debug\net9.0\Jhj_0904.pdb
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\obj\Debug\net9.0\Jhj_0904.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\obj\Debug\net9.0\Jhj_0904.AssemblyInfoInputs.cache
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\obj\Debug\net9.0\Jhj_0904.AssemblyInfo.cs
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\obj\Debug\net9.0\Jhj_0904.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\obj\Debug\net9.0\Jhj_0904.dll
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\obj\Debug\net9.0\refint\Jhj_0904.dll
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\obj\Debug\net9.0\Jhj_0904.pdb
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\obj\Debug\net9.0\Jhj_0904.genruntimeconfig.cache
+C:\Users\PC1\Desktop\Jhj_0999\Jhj_0904\Jhj_0904\obj\Debug\net9.0\ref\Jhj_0904.dll

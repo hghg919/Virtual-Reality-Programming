@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Jhj_0904/1.0.0": {
+        "runtime": {
+          "Jhj_0904.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jhj_0904/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
