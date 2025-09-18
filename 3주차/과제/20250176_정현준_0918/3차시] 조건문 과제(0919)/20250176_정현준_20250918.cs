@@ -52,41 +52,42 @@
 //}
 
 // 문제3: 할인율 계산기 (수정필요)
-//int amout;
+//int amount;
 //
-//Console.WriteLine("구매 금액을 입력하세요: ");
-//amout = int.Parse(Console.ReadLine());
-//Console.WriteLine("VIP 회원이신가요? (true/false): ");
+//Console.Write("구매 금액을 입력하세요: ");
+//amount = int.Parse(Console.ReadLine());
+//
+//Console.Write("VIP 회원이신가요? (true/false): ");
 //bool isVip = Convert.ToBoolean(Console.ReadLine());
 //
-//if (isVip == true)
+//double discountRate = 0;
+//
+//if (amount >= 100000)
 //{
-//    Console.WriteLine("총 할인율: 5%, 할인된금액:" + amout*(1-0.05/100) + "원");
-//    if (isVip == false)
-//    {
-//        if (amout >= 100000)
-//        {
-//            Console.WriteLine("총 할인율: 10%, 할인된금액:" + amout * (1 - 0.1 / 100) + "원");
-//        }
-//        else if (amout >= 50000 &&  amout < 100000)
-//        {
-//            Console.WriteLine("총 할인율: 5%, 할인된금액:" + amout * (1 - 0.05 / 100) + "원");
-//        }
-//        else
-//        {
-//            Console.WriteLine("할인 없음");
-//        }
-//    }
+//    discountRate = 10;
 //}
+//else if (amount >= 50000)
+//{
+//    discountRate = 5;
+//}
+//if (isVip)
+//{
+//    discountRate += 5;
+//}
+//
+//double discountedPrice = amount * (1 - discountRate / 100);
+//
+//Console.WriteLine($"총 할인율: {discountRate}%, 할인된 금액: {discountedPrice}원");
 
-// 문제 4: 윤년 판단
+
+//문제 4: 윤년 판단
 int age;
 
 Console.WriteLine("윤년인지 아닌지 판별하는 프로그램입니다.");
 Console.Write("연도를 입력하세요: ");
 age = int.Parse(Console.ReadLine());
 
-if (age)
+if (age % 4 == 0)
 {
 
 }

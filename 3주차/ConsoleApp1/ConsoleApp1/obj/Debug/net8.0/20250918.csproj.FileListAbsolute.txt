@@ -13,3 +13,11 @@ C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\Co
 C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.pdb
 C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.genruntimeconfig.cache
 C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\20250918.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.AssemblyInfoInputs.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.AssemblyInfo.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.csproj.CoreCompileInputs.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.sourcelink.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\20250918.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.pdb

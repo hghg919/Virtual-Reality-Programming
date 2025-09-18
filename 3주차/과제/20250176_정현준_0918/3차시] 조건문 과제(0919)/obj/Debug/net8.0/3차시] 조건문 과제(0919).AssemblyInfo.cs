@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3차시] 조건문 과제(0919)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a536de751a0e1cba0cf6e522c833cc90c3538e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3acc52b2fdc4efd26664baf3df557c11e7ca66d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("3차시] 조건문 과제(0919)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3차시] 조건문 과제(0919)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

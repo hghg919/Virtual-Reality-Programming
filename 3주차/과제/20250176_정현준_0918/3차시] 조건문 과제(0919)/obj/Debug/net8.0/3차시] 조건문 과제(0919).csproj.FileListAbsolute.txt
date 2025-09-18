@@ -13,3 +13,18 @@ C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\과제\2025017
 C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\3차시] 조건문 과제(0919).pdb
 C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\3차시] 조건문 과제(0919).genruntimeconfig.cache
 C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\ref\3차시] 조건문 과제(0919).dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\3차시] 조건문 과제(0919).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\3차시] 조건문 과제(0919).AssemblyInfoInputs.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\3차시] 조건문 과제(0919).AssemblyInfo.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\3차시] 조건문 과제(0919).csproj.CoreCompileInputs.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\3차시] 조건문 과제(0919).sourcelink.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\3차시] 조건문 과제(0919).dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\refint\3차시] 조건문 과제(0919).dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\3차시] 조건문 과제(0919).pdb
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\bin\Debug\net8.0\3차시] 조건문 과제(0919).exe
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\bin\Debug\net8.0\3차시] 조건문 과제(0919).deps.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\bin\Debug\net8.0\3차시] 조건문 과제(0919).runtimeconfig.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\bin\Debug\net8.0\3차시] 조건문 과제(0919).dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\bin\Debug\net8.0\3차시] 조건문 과제(0919).pdb
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\3차시] 조건문 과제(0919).genruntimeconfig.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\3주차\과제\20250176_정현준_0918\3차시] 조건문 과제(0919)\obj\Debug\net8.0\ref\3차시] 조건문 과제(0919).dll
