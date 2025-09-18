@@ -1,0 +1,15 @@
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\20250918.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\20250918.deps.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\20250918.runtimeconfig.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\20250918.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\20250918.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.AssemblyInfoInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.AssemblyInfo.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.sourcelink.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\20250918.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\20250918.genruntimeconfig.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\3주차\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\20250918.dll
