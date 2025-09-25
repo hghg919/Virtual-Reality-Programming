@@ -88,7 +88,9 @@ else
 // 문제 4: 윤년 판단
 int year;
 
+Console.WriteLine("윤년인지 아닌지 판별하는 프로그램입니다.");
 Console.Write("연도를 입력하세요: ");
+
 year = int.Parse(Console.ReadLine());
 
 if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
@@ -100,6 +102,7 @@ else
 // 문제 5: 삼각형 판별
 int x, y, z;
 
+Console.WriteLine("삼각형을 만들 수 있는지 판별하는 프로그램입니다.");
 Console.Write("첫 번째 변의 길이: ");
 x = int.Parse(Console.ReadLine());
 Console.Write("두 번째 변의 길이: ");
@@ -116,6 +119,7 @@ else
 // 문제 6: 비만도 판정
 double height, weight;
 
+Console.WriteLine("BMI를 계산하고 비만도를 판정하는 프로그램입니다.");
 Console.Write("키(cm)를 입력하세요: ");
 height = double.Parse(Console.ReadLine());
 Console.Write("체중(kg)을 입력하세요: ");
