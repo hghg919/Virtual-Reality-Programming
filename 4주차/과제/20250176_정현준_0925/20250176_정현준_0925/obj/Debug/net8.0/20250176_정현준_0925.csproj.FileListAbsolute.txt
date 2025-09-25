@@ -13,3 +13,18 @@ C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\4주차\과제\2025017
 C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\20250176_정현준_0925.pdb
 C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\20250176_정현준_0925.genruntimeconfig.cache
 C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\ref\20250176_정현준_0925.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\bin\Debug\net8.0\20250176_정현준_0925.exe
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\bin\Debug\net8.0\20250176_정현준_0925.deps.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\bin\Debug\net8.0\20250176_정현준_0925.runtimeconfig.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\bin\Debug\net8.0\20250176_정현준_0925.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\bin\Debug\net8.0\20250176_정현준_0925.pdb
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\20250176_정현준_0925.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\20250176_정현준_0925.AssemblyInfoInputs.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\20250176_정현준_0925.AssemblyInfo.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\20250176_정현준_0925.csproj.CoreCompileInputs.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\20250176_정현준_0925.sourcelink.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\20250176_정현준_0925.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\refint\20250176_정현준_0925.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\20250176_정현준_0925.pdb
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\20250176_정현준_0925.genruntimeconfig.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\4주차\과제\20250176_정현준_0925\20250176_정현준_0925\obj\Debug\net8.0\ref\20250176_정현준_0925.dll

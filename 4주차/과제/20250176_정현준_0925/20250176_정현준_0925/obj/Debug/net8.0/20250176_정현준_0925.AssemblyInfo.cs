@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("20250176_정현준_0925")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01b65bdd0a3933991cf4c74c60251eb57b7e4109")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c60258a5dd58d527081d341b10d502e8dd1f54e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("20250176_정현준_0925")]
 [assembly: System.Reflection.AssemblyTitleAttribute("20250176_정현준_0925")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
