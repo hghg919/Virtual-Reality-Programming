@@ -60,6 +60,113 @@
 
 // 문제 3 : While 루프 – 대출금 상환
 
-Console.WriteLine();
+//int loanAmount, payment;
+
+//Console.Write("대출금액을 입력하시오 : ");
+//loanAmount = int.Parse(Console.ReadLine());
+
+//while (loanAmount > 0)
+//{
+//    Console.Write("상환금액을 입력하시오 : ");
+//    payment = int.Parse(Console.ReadLine());
+//    loanAmount -= payment;
+//    if (loanAmount > 0)
+//    {
+//        Console.WriteLine("남은 대출 : " + loanAmount);
+//    }
+//}
+
+//Console.WriteLine("대출 상환 완료!");
 
 
+// 문제 4: For 루프 – 주차장에 있는 자동차 수 세기
+
+//int totalHours;
+//int totalCars = 0;
+
+//Console.Write("추적시간 : ");
+//totalHours = int.Parse(Console.ReadLine());
+
+//for (int i = 0; i < totalHours; i++)
+//{
+//    Console.Write($"{i + 1}시간째 차량 수 : ");
+//    int carsThisHour = int.Parse(Console.ReadLine());
+
+//    totalCars += carsThisHour;
+//}
+
+//// 최종 결과 출력
+//Console.WriteLine($"총 차량 수 : {totalCars}");
+
+
+//문제 5 : For문과 If문 – 유통기한이 지난 제품 확인하기
+
+//Console.Write("제품의 개수: ");
+//int productCount = int.Parse(Console.ReadLine());
+
+//for (int i = 1; i <= productCount; i++)
+//{
+//    Console.Write($"{i}번째 제품의 유통기한(일): ");
+//    int daysLeft = int.Parse(Console.ReadLine());
+
+//    if (daysLeft <= 0)
+//    {
+//        Console.WriteLine($"{i}번째 제품은 유통기한이 지났습니다.");
+//    }
+//}
+
+//문제 6 : For문과 If문 – 비 오는 날 수 세기
+
+//int rainyDayCount = 0;
+
+//for (int i = 1; i <= 7; i++)
+//{
+//    Console.Write($"{i}번째 날의 날씨를 입력하세요: ");
+//    string weather = Console.ReadLine();
+
+//    if (weather == "비")
+//    {
+//        rainyDayCount++;
+//    }
+//}
+
+//Console.WriteLine($"비가 온 날은 총 {rainyDayCount}일입니다.");
+
+// 문제7: 입력한 숫자만큼 별을 출력
+
+//Console.Write("정수를 입력하세요(1 ≤ N ≤ 100): ");
+//int n = int.Parse(Console.ReadLine());
+
+//for (int i = 1; i <= n; i++)
+//{
+//    for (int j = 1; j <= i; j++)
+//    {
+//        Console.Write("☆");
+//    }
+//    Console.WriteLine();
+//}
+
+
+// 문제8: 다중For문 - 주사위의 합
+
+//Console.Write("세 주사위 눈의 합 N을 입력하세요 (3~18): ");
+//int n = int.Parse(Console.ReadLine());
+
+//int caseCount = 0; 
+
+//for (int die1 = 1; die1 <= 6; die1++)
+//{
+//    for (int die2 = 1; die2 <= 6; die2++)
+//    {
+//        for (int die3 = 1; die3 <= 6; die3++)
+//        {
+//            if (die1 + die2 + die3 == n)
+//            {
+//                Console.WriteLine($"({die1}, {die2}, {die3})");
+//                caseCount++;
+//            }
+//        }
+//    }
+//}
+
+//Console.WriteLine($"경우의 수: {caseCount}");
