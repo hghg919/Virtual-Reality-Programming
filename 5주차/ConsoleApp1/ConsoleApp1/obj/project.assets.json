@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net9.0": []
   },
   "packageFolders": {
     "C:\\Users\\PC1\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\4주차\\과제\\20250176_정현준_0925\\20250176_정현준_0925\\20250176_정현준_0925.csproj",
-      "projectName": "20250176_정현준_0925",
-      "projectPath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\4주차\\과제\\20250176_정현준_0925\\20250176_정현준_0925\\20250176_정현준_0925.csproj",
+      "projectUniqueName": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\5주차\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\5주차\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\4주차\\과제\\20250176_정현준_0925\\20250176_정현준_0925\\obj\\",
+      "outputPath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\5주차\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,15 +29,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -54,8 +54,8 @@
       "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
