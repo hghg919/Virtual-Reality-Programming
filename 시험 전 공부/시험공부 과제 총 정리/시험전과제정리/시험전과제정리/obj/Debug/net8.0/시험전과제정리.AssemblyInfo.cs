@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("시험전과제정리")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e5725e535439623e17fabcc831b6ff1d9d538dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5e8adbc6cfc77b5fa987a3d0c7328feac8ef4dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("시험전과제정리")]
 [assembly: System.Reflection.AssemblyTitleAttribute("시험전과제정리")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
