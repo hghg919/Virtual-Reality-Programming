@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("연습장")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5e8adbc6cfc77b5fa987a3d0c7328feac8ef4dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f5bde586b971222e4352a63f976b9f9e17d0ca1")]
 [assembly: System.Reflection.AssemblyProductAttribute("연습장")]
 [assembly: System.Reflection.AssemblyTitleAttribute("연습장")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
