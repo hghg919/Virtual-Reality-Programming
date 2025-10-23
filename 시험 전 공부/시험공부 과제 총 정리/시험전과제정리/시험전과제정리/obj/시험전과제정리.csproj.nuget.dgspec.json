@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jung\\Desktop\\대학교\\Virtual-Reality-Programming\\시험 전 공부\\시험공부 과제 총 정리\\시험전과제정리\\시험전과제정리\\시험전과제정리.csproj": {}
+    "C:\\Users\\tgeq1\\Desktop\\1학년 2학기\\Virtual-Reality-Programming\\시험 전 공부\\시험공부 과제 총 정리\\시험전과제정리\\시험전과제정리\\시험전과제정리.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jung\\Desktop\\대학교\\Virtual-Reality-Programming\\시험 전 공부\\시험공부 과제 총 정리\\시험전과제정리\\시험전과제정리\\시험전과제정리.csproj": {
+    "C:\\Users\\tgeq1\\Desktop\\1학년 2학기\\Virtual-Reality-Programming\\시험 전 공부\\시험공부 과제 총 정리\\시험전과제정리\\시험전과제정리\\시험전과제정리.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jung\\Desktop\\대학교\\Virtual-Reality-Programming\\시험 전 공부\\시험공부 과제 총 정리\\시험전과제정리\\시험전과제정리\\시험전과제정리.csproj",
+        "projectUniqueName": "C:\\Users\\tgeq1\\Desktop\\1학년 2학기\\Virtual-Reality-Programming\\시험 전 공부\\시험공부 과제 총 정리\\시험전과제정리\\시험전과제정리\\시험전과제정리.csproj",
         "projectName": "시험전과제정리",
-        "projectPath": "C:\\Users\\Jung\\Desktop\\대학교\\Virtual-Reality-Programming\\시험 전 공부\\시험공부 과제 총 정리\\시험전과제정리\\시험전과제정리\\시험전과제정리.csproj",
-        "packagesPath": "C:\\Users\\Jung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jung\\Desktop\\대학교\\Virtual-Reality-Programming\\시험 전 공부\\시험공부 과제 총 정리\\시험전과제정리\\시험전과제정리\\obj\\",
+        "projectPath": "C:\\Users\\tgeq1\\Desktop\\1학년 2학기\\Virtual-Reality-Programming\\시험 전 공부\\시험공부 과제 총 정리\\시험전과제정리\\시험전과제정리\\시험전과제정리.csproj",
+        "packagesPath": "C:\\Users\\tgeq1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tgeq1\\Desktop\\1학년 2학기\\Virtual-Reality-Programming\\시험 전 공부\\시험공부 과제 총 정리\\시험전과제정리\\시험전과제정리\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Jung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tgeq1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

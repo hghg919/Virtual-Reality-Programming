@@ -8,7 +8,7 @@ for (int i = 0; i < v.Length; i++)
 
 Console.WriteLine(" > 정렬 전 랜덤값 ");
 foreach (int a in v)
-    Console.Write("{0, 5}", a);
+    Console.Write($"{a, 5}");
 
 Console.WriteLine();
 Console.WriteLine();

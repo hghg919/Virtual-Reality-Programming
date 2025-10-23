@@ -33,7 +33,6 @@ else // 14세 이하
     Console.WriteLine("전체관람가");
 }
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
 
 // --- 문제 2: 큰 수 판단 ---
 int a, b, c;
@@ -64,11 +63,9 @@ if (c > max)
 Console.WriteLine("가장 큰 수: " + max);
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
-
 // --- 문제 3: 할인율 계산기 ---
 int amount;
-bool isVip;
+bool isVip; 
 
 Console.Write("구매 금액을 입력하세요: ");
 amount = int.Parse(Console.ReadLine());
@@ -105,7 +102,6 @@ int finalAmount = (int)(amount * (1 - discountRate)); // 15% 할인이면 0.85�
 Console.WriteLine($"총 할인율: {discountPercent}%, 할인된 금액: {finalAmount}원");
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
 
 // --- 문제 4: 윤년 판단 ---
 int year;
@@ -124,7 +120,6 @@ else
     Console.WriteLine("윤년이 아닙니다.");
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
 
 // --- 문제 5: 삼각형 판별 ---
 int x, y, z;
@@ -170,7 +165,6 @@ else // 30 <= bmi
     Console.WriteLine("비만");
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
 
 // --- 문제 7: 월별 날짜 수 계산 ---
 int month;
@@ -207,8 +201,6 @@ switch (month)
         break;
 }
 
-
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
 
 
 // -----------------------------------------------------------------
@@ -256,8 +248,6 @@ for (int currentNumber = A; currentNumber <= B; currentNumber++)
 Console.WriteLine("결과: " + sum);
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
-
 // --- 문제 2 : While 루프 – 자동차 연료 공급 ---
 int T, gas;
 int full = 0;
@@ -279,7 +269,6 @@ while (full < T)
 Console.WriteLine("연료가 완성되었습니다. 총 연료: " + full);
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
 
 // --- 문제 3 : While 루프 – 대출금 상환 ---
 int loanAmount, payment;
@@ -308,7 +297,6 @@ while (loanAmount > 0)
 }
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
 
 // --- 문제 4: For 루프 – 주차장에 있는 자동차 수 세기 ---
 int totalHours;
@@ -331,8 +319,6 @@ for (int i = 0; i < totalHours; i++)
 Console.WriteLine($"총 차량 수 : {totalCars}");
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
-
 // --- 문제 5 : For문과 If문 – 유통기한이 지난 제품 확인하기 ---
 Console.Write("제품의 개수: ");
 int productCount = int.Parse(Console.ReadLine());
@@ -351,7 +337,6 @@ for (int i = 1; i <= productCount; i++)
 }
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
 
 // --- 문제 6 : For문과 If문 – 비 오는 날 수 세기 ---
 int rainyDayCount = 0;
@@ -376,8 +361,6 @@ for (int i = 1; i <= 7; i++)
 Console.WriteLine($"비가 온 날은 총 {rainyDayCount}일입니다.");
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
-
 // --- 문제 7: 입력한 숫자만큼 별을 출력 ---
 
 // [수정] 문제 8번의 변수 'n'과 이름이 겹치므로 'n_stars'로 변경했습니다.
@@ -396,7 +379,6 @@ for (int i = 1; i <= n_stars; i++) // i: 현재 줄 번호 (1 ~ N)
 }
 
 
-Console.WriteLine(); // 문제 구분을 위한 줄바꿈
 
 // --- 문제 8: 다중For문 - 주사위의 합 ---
 
@@ -412,12 +394,12 @@ int caseCount = 0;
 for (int die1 = 1; die1 <= 6; die1++)
 {
     for (int die2 = 1; die2 <= 6; die2++)
-    {
+    {   
         for (int die3 = 1; die3 <= 6; die3++)
         {
             if (die1 + die2 + die3 == n_diceSum) // 합이 N과 같다면
             {
-                Console.WriteLine($"({die1}, {die2}, {die3})");
+                Console.WriteLine($"({die1}, {die2}, {die3})");`
                 caseCount++;
             }
         }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolData", "BoolData\BoolData.csproj", "{784636FA-EF46-4B38-AE91-E9BC71DD0F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784636FA-EF46-4B38-AE91-E9BC71DD0F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784636FA-EF46-4B38-AE91-E9BC71DD0F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784636FA-EF46-4B38-AE91-E9BC71DD0F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784636FA-EF46-4B38-AE91-E9BC71DD0F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C20EE88-8268-4628-815C-8F5A254CCD0C}
+	EndGlobalSection
+EndGlobal

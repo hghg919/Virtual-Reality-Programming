@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uC18C\uC2A4 \uCF54\uB4DC - \uD559\uC2B5\uC790\uC6A9\\ch01\\SampleProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA75B73-D5E5-41D5-B218-F4D2F3628FA4}|SampleProgram\\SampleProgram.csproj|c:\\users\\tgeq1\\desktop\\1\uD559\uB144 2\uD559\uAE30\\virtual-reality-programming\\\uC18C\uC2A4 \uCF54\uB4DC - \uD559\uC2B5\uC790\uC6A9\\ch01\\sampleprogram\\sampleprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA75B73-D5E5-41D5-B218-F4D2F3628FA4}|SampleProgram\\SampleProgram.csproj|solutionrelative:sampleprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA75B73-D5E5-41D5-B218-F4D2F3628FA4}|SampleProgram\\SampleProgram.csproj|c:\\users\\tgeq1\\desktop\\1\uD559\uB144 2\uD559\uAE30\\virtual-reality-programming\\\uC18C\uC2A4 \uCF54\uB4DC - \uD559\uC2B5\uC790\uC6A9\\ch01\\sampleprogram\\sampleprogram\\sampleprogram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8FA75B73-D5E5-41D5-B218-F4D2F3628FA4}|SampleProgram\\SampleProgram.csproj|solutionrelative:sampleprogram\\sampleprogram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleProgram.csproj",
+              "DocumentMoniker": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uC18C\uC2A4 \uCF54\uB4DC - \uD559\uC2B5\uC790\uC6A9\\ch01\\SampleProgram\\SampleProgram\\SampleProgram.csproj",
+              "RelativeDocumentMoniker": "SampleProgram\\SampleProgram.csproj",
+              "ToolTip": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uC18C\uC2A4 \uCF54\uB4DC - \uD559\uC2B5\uC790\uC6A9\\ch01\\SampleProgram\\SampleProgram\\SampleProgram.csproj",
+              "RelativeToolTip": "SampleProgram\\SampleProgram.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T02:08:47.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uC18C\uC2A4 \uCF54\uB4DC - \uD559\uC2B5\uC790\uC6A9\\ch01\\SampleProgram\\SampleProgram\\Program.cs",
+              "RelativeDocumentMoniker": "SampleProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uC18C\uC2A4 \uCF54\uB4DC - \uD559\uC2B5\uC790\uC6A9\\ch01\\SampleProgram\\SampleProgram\\Program.cs",
+              "RelativeToolTip": "SampleProgram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T02:08:48.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

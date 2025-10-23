@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonAndLLabel", "ButtonAndLLabel\ButtonAndLLabel.csproj", "{1D6B34B5-93B4-40D2-BD34-92B4B6923693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D6B34B5-93B4-40D2-BD34-92B4B6923693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6B34B5-93B4-40D2-BD34-92B4B6923693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6B34B5-93B4-40D2-BD34-92B4B6923693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6B34B5-93B4-40D2-BD34-92B4B6923693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFBE357C-5AF7-425D-BAD7-8C1D5DA1A195}
+	EndGlobalSection
+EndGlobal

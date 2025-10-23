@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("이진탐색")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5e8adbc6cfc77b5fa987a3d0c7328feac8ef4dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+571777823f507bf6b8507f6bcdea1d6ca85bde3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("이진탐색")]
 [assembly: System.Reflection.AssemblyTitleAttribute("이진탐색")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
