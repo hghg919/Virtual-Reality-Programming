@@ -399,7 +399,7 @@ for (int die1 = 1; die1 <= 6; die1++)
         {
             if (die1 + die2 + die3 == n_diceSum) // 합이 N과 같다면
             {
-                Console.WriteLine($"({die1}, {die2}, {die3})");`
+                Console.WriteLine($"({die1}, {die2}, {die3})");
                 caseCount++;
             }
         }
