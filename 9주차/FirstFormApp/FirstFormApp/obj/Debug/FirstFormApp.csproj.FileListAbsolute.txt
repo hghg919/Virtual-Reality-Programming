@@ -1,0 +1,11 @@
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.exe.config
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.csproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.Form1.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.Properties.Resources.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.csproj.GenerateResource.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.exe.config
