@@ -1,0 +1,10 @@
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\TextBoxEvent\TextBoxEvent\bin\Debug\TextBoxEvent.exe.config
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\TextBoxEvent\TextBoxEvent\bin\Debug\TextBoxEvent.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\TextBoxEvent\TextBoxEvent\bin\Debug\TextBoxEvent.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\TextBoxEvent\TextBoxEvent\obj\Debug\TextBoxEvent.csproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\TextBoxEvent\TextBoxEvent\obj\Debug\TextBoxEvent.Form1.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\TextBoxEvent\TextBoxEvent\obj\Debug\TextBoxEvent.Properties.Resources.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\TextBoxEvent\TextBoxEvent\obj\Debug\TextBoxEvent.csproj.GenerateResource.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\TextBoxEvent\TextBoxEvent\obj\Debug\TextBoxEvent.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\TextBoxEvent\TextBoxEvent\obj\Debug\TextBoxEvent.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\TextBoxEvent\TextBoxEvent\obj\Debug\TextBoxEvent.pdb

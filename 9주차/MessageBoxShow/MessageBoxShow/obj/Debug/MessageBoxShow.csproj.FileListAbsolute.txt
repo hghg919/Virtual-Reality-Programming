@@ -1,0 +1,10 @@
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\MessageBoxShow\MessageBoxShow\bin\Debug\MessageBoxShow.exe.config
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\MessageBoxShow\MessageBoxShow\bin\Debug\MessageBoxShow.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\MessageBoxShow\MessageBoxShow\bin\Debug\MessageBoxShow.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\MessageBoxShow\MessageBoxShow\obj\Debug\MessageBoxShow.csproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\MessageBoxShow\MessageBoxShow\obj\Debug\MessageBoxShow.Form1.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\MessageBoxShow\MessageBoxShow\obj\Debug\MessageBoxShow.Properties.Resources.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\MessageBoxShow\MessageBoxShow\obj\Debug\MessageBoxShow.csproj.GenerateResource.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\MessageBoxShow\MessageBoxShow\obj\Debug\MessageBoxShow.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\MessageBoxShow\MessageBoxShow\obj\Debug\MessageBoxShow.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\MessageBoxShow\MessageBoxShow\obj\Debug\MessageBoxShow.pdb

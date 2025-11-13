@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\9\uC8FC\uCC28\\TextBoxEvent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4116C962-164D-4DAD-9775-1F6A5173515D}|TextBoxEvent\\TextBoxEvent.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\9\uC8FC\uCC28\\textboxevent\\textboxevent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4116C962-164D-4DAD-9775-1F6A5173515D}|TextBoxEvent\\TextBoxEvent.csproj|solutionrelative:textboxevent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116C962-164D-4DAD-9775-1F6A5173515D}|TextBoxEvent\\TextBoxEvent.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\9\uC8FC\uCC28\\textboxevent\\textboxevent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116C962-164D-4DAD-9775-1F6A5173515D}|TextBoxEvent\\TextBoxEvent.csproj|solutionrelative:textboxevent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\9\uC8FC\uCC28\\TextBoxEvent\\TextBoxEvent\\Form1.cs",
+              "RelativeDocumentMoniker": "TextBoxEvent\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\9\uC8FC\uCC28\\TextBoxEvent\\TextBoxEvent\\Form1.cs",
+              "RelativeToolTip": "TextBoxEvent\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:41:01.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\9\uC8FC\uCC28\\TextBoxEvent\\TextBoxEvent\\Form1.cs",
+              "RelativeDocumentMoniker": "TextBoxEvent\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\9\uC8FC\uCC28\\TextBoxEvent\\TextBoxEvent\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "TextBoxEvent\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:39:06.814Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
