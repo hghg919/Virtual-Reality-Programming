@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\11\uC8FC\uCC28\\ComboBoxEvent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDD70A4-1EB5-4AE2-A016-6E5DD7EFD8AF}|ComboBoxEvent\\ComboBoxEvent.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\11\uC8FC\uCC28\\comboboxevent\\comboboxevent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDD70A4-1EB5-4AE2-A016-6E5DD7EFD8AF}|ComboBoxEvent\\ComboBoxEvent.csproj|solutionrelative:comboboxevent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDD70A4-1EB5-4AE2-A016-6E5DD7EFD8AF}|ComboBoxEvent\\ComboBoxEvent.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\11\uC8FC\uCC28\\comboboxevent\\comboboxevent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CDD70A4-1EB5-4AE2-A016-6E5DD7EFD8AF}|ComboBoxEvent\\ComboBoxEvent.csproj|solutionrelative:comboboxevent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\11\uC8FC\uCC28\\ComboBoxEvent\\ComboBoxEvent\\Form1.cs",
+              "RelativeDocumentMoniker": "ComboBoxEvent\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\11\uC8FC\uCC28\\ComboBoxEvent\\ComboBoxEvent\\Form1.cs",
+              "RelativeToolTip": "ComboBoxEvent\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T04:41:59.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\11\uC8FC\uCC28\\ComboBoxEvent\\ComboBoxEvent\\Form1.cs",
+              "RelativeDocumentMoniker": "ComboBoxEvent\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\11\uC8FC\uCC28\\ComboBoxEvent\\ComboBoxEvent\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "ComboBoxEvent\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T04:40:16.276Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

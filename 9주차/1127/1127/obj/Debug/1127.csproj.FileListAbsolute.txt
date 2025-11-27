@@ -1,0 +1,10 @@
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\1127\1127\bin\Debug\1127.exe.config
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\1127\1127\bin\Debug\1127.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\1127\1127\bin\Debug\1127.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\1127\1127\obj\Debug\1127.csproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\1127\1127\obj\Debug\_1127.Form1.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\1127\1127\obj\Debug\_1127.Properties.Resources.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\1127\1127\obj\Debug\1127.csproj.GenerateResource.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\1127\1127\obj\Debug\1127.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\1127\1127\obj\Debug\1127.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\9주차\1127\1127\obj\Debug\1127.pdb

@@ -1,0 +1,11 @@
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\bin\Debug\TabControlEvent.exe.config
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\bin\Debug\TabControlEvent.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\bin\Debug\TabControlEvent.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\obj\Debug\TabControlEvent.csproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\obj\Debug\TabControlEvent.Form1.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\obj\Debug\TabControlEvent.Properties.Resources.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\obj\Debug\TabControlEvent.csproj.GenerateResource.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\obj\Debug\TabControlEvent.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\obj\Debug\TabControlEvent.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\obj\Debug\TabControlEvent.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\TabControlEvent\TabControlEvent\obj\Debug\TabControlEvent.exe.config

@@ -1,0 +1,10 @@
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.Form1.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.Properties.Resources.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.GenerateResource.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\ImageVieweEvnet\ImageVieweEvnet\bin\Debug\ImageVieweEvnet.exe.config
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\ImageVieweEvnet\ImageVieweEvnet\bin\Debug\ImageVieweEvnet.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\ImageVieweEvnet\ImageVieweEvnet\bin\Debug\ImageVieweEvnet.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\ImageVieweEvnet\ImageVieweEvnet\obj\Debug\ImageVieweEvnet.csproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\ImageVieweEvnet\ImageVieweEvnet\obj\Debug\ImageVieweEvnet.Form1.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\ImageVieweEvnet\ImageVieweEvnet\obj\Debug\ImageVieweEvnet.Properties.Resources.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\ImageVieweEvnet\ImageVieweEvnet\obj\Debug\ImageVieweEvnet.csproj.GenerateResource.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\ImageVieweEvnet\ImageVieweEvnet\obj\Debug\ImageVieweEvnet.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\ImageVieweEvnet\ImageVieweEvnet\obj\Debug\ImageVieweEvnet.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\11주차\ImageVieweEvnet\ImageVieweEvnet\obj\Debug\ImageVieweEvnet.pdb
