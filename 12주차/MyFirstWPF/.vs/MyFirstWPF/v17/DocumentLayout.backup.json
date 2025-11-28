@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\MyFirstWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC15632-57D5-498F-B047-52D90036F3C6}|MyFirstWPF\\MyFirstWPF.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\12\uC8FC\uCC28\\myfirstwpf\\myfirstwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC15632-57D5-498F-B047-52D90036F3C6}|MyFirstWPF\\MyFirstWPF.csproj|solutionrelative:myfirstwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC15632-57D5-498F-B047-52D90036F3C6}|MyFirstWPF\\MyFirstWPF.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\12\uC8FC\uCC28\\myfirstwpf\\myfirstwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC15632-57D5-498F-B047-52D90036F3C6}|MyFirstWPF\\MyFirstWPF.csproj|solutionrelative:myfirstwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\MyFirstWPF\\MyFirstWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MyFirstWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\MyFirstWPF\\MyFirstWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MyFirstWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:28:22.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\MyFirstWPF\\MyFirstWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MyFirstWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\MyFirstWPF\\MyFirstWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MyFirstWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-28T01:21:33.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

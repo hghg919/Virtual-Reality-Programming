@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\12\uC8FC\uCC28\\wpf_movescreen\\wpf_movescreen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|solutionrelative:wpf_movescreen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\12\uC8FC\uCC28\\wpf_movescreen\\wpf_movescreen\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|solutionrelative:wpf_movescreen\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\12\uC8FC\uCC28\\wpf_movescreen\\wpf_movescreen\\final.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|solutionrelative:wpf_movescreen\\final.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\12\uC8FC\uCC28\\wpf_movescreen\\wpf_movescreen\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|solutionrelative:wpf_movescreen\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\12\uC8FC\uCC28\\wpf_movescreen\\wpf_movescreen\\final.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|solutionrelative:wpf_movescreen\\final.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\12\uC8FC\uCC28\\wpf_movescreen\\wpf_movescreen\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|solutionrelative:wpf_movescreen\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|c:\\users\\pc1\\desktop\\20250176\\virtual-reality-programming\\12\uC8FC\uCC28\\wpf_movescreen\\wpf_movescreen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FEB4B1-45C2-4780-9ECE-0596DECCCBCC}|WPF_MoveScreen\\WPF_MoveScreen.csproj|solutionrelative:wpf_movescreen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Final.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\Final.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_MoveScreen\\Final.xaml.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\Final.xaml.cs",
+              "RelativeToolTip": "WPF_MoveScreen\\Final.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:56:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Welcome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\Welcome.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_MoveScreen\\Welcome.xaml.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\Welcome.xaml.cs",
+              "RelativeToolTip": "WPF_MoveScreen\\Welcome.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:54:31.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Final.xaml",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\Final.xaml",
+              "RelativeDocumentMoniker": "WPF_MoveScreen\\Final.xaml",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\Final.xaml",
+              "RelativeToolTip": "WPF_MoveScreen\\Final.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-28T03:44:00.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome.xaml",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\Welcome.xaml",
+              "RelativeDocumentMoniker": "WPF_MoveScreen\\Welcome.xaml",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\Welcome.xaml",
+              "RelativeToolTip": "WPF_MoveScreen\\Welcome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-28T03:30:04.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_MoveScreen\\App.xaml",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\App.xaml",
+              "RelativeToolTip": "WPF_MoveScreen\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-28T03:16:40.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_MoveScreen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_MoveScreen\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-28T03:03:03.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_MoveScreen\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\12\uC8FC\uCC28\\WPF_MoveScreen\\WPF_MoveScreen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_MoveScreen\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:03:03.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
