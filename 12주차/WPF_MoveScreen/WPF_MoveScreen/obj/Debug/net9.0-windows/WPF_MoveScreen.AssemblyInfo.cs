@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPF_MoveScreen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+963a81534e4af9673a672d4afefc4cee0b9eb5be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd57dbf4e072c11a1586ec3011810b5c606d9252")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPF_MoveScreen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPF_MoveScreen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -69,7 +69,7 @@ namespace WPF_MoveScreen {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF_MoveScreen;component/welcome.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF_MoveScreen;V1.0.0.0;component/welcome.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Welcome.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

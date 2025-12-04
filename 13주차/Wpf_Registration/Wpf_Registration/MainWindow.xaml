@@ -1,0 +1,71 @@
+﻿<Window x:Class="Wpf_Registration.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Registration"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="300" Background="BlueViolet">
+    <StackPanel Height="365"
+                VerticalAlignment="Bottom"
+                Background="Beige"
+                Margin="10">
+        <TextBlock Text="LogIn"
+                   FontSize="25"
+                   HorizontalAlignment="Center"
+                   Margin="0, 35"
+                   VerticalAlignment="Bottom"/>
+
+        <Separator Background="Blue" Margin="20, 0"/>
+
+        <Grid Height="30"></Grid>
+        <TextBlock Text="아이디"
+                   FontSize="15"
+                   Margin="20, 10"/>
+        <TextBox Name="txtID"
+                 FontSize="15"
+                 Margin="20, 0"/>
+
+        <TextBlock Text="비밀전호"
+           FontSize="15"
+           Margin="20, 10"/>
+        <PasswordBox Name="txtPW"
+         FontSize="15"
+         Margin="20, 0"/>
+
+        <Grid Height="10"/>
+
+        <Grid Height="70">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="btnLogin"
+                    Grid.Row="0" Grid.Column="0"
+                    Content="로그인"
+                    FontSize="15"
+                    Height="30"
+                    VerticalAlignment="Bottom"
+                    Click="btnInput_click"
+                    HorizontalAlignment="Right"
+                    Width="115"
+                    Margin="5, 5"/>
+
+            <Button x:Name="btnCancel"
+                    Grid.Row="0" Grid.Column="1"
+                    Content="취소"
+                    FontSize="15"
+                    Height="30"
+                    VerticalAlignment="Bottom"
+                    Click="btnCancel_click"
+                    HorizontalAlignment="Left"
+                    Width="115"
+                    Margin="5, 5"/>
+        </Grid>
+    </StackPanel>
+</Window>
