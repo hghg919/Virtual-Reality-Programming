@@ -1,0 +1,29 @@
+﻿<Window x:Class="MedicineManager.MainMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MedicineManager" Height="800" Width="450"
+        WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize"
+        Background="#F5F5F7">
+
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Frame Grid.Row="0" x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
+
+        <Border Grid.Row="1" Background="White" CornerRadius="20" Height="60" Margin="0,15,0,0">
+            <Border.Effect>
+                <DropShadowEffect Color="Gray" Direction="90" ShadowDepth="2" Opacity="0.2"/>
+            </Border.Effect>
+            <UniformGrid Columns="5">
+                <Button x:Name="BtnRegister" Content="등록" Click="BtnRegister_Click" Background="Transparent" BorderThickness="0" FontWeight="SemiBold"/>
+                <Button x:Name="BtnCalendar" Content="달력" Click="BtnCalendar_Click" Background="Transparent" BorderThickness="0" FontWeight="SemiBold"/>
+                <Button x:Name="BtnHome"     Content="🏠"   Click="BtnHome_Click"     Background="Transparent" BorderThickness="0" FontWeight="Bold" Foreground="#2196F3" FontSize="20"/>
+                <Button x:Name="BtnChart"    Content="차트" Click="BtnChart_Click"    Background="Transparent" BorderThickness="0" FontWeight="SemiBold"/>
+                <Button x:Name="BtnMy"       Content="My"   Click="BtnMy_Click"       Background="Transparent" BorderThickness="0" FontWeight="SemiBold"/>
+            </UniformGrid>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,37 @@
+﻿<Page x:Class="MedicineManager.Pages.RegisterPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="RegisterPage" Background="White">
+
+    <Grid Margin="20">
+        <StackPanel VerticalAlignment="Center">
+
+            <TextBlock Text="새로운 약 등록" FontSize="24" FontWeight="Bold" Margin="0,0,0,30" HorizontalAlignment="Center"/>
+
+            <TextBlock Text="약 이름" FontWeight="Bold" Margin="0,0,0,5"/>
+            <TextBox x:Name="TxtName" Height="40" VerticalContentAlignment="Center" Padding="5" Margin="0,0,0,20"/>
+
+            <TextBlock Text="약 종류" FontWeight="Bold" Margin="0,0,0,5"/>
+            <ComboBox x:Name="CboType" Height="40" Margin="0,0,0,20" VerticalContentAlignment="Center" Padding="5">
+                <ComboBoxItem Content="알약 (Tablet)" IsSelected="True"/>
+                <ComboBoxItem Content="물약 (Liquid)"/>
+                <ComboBoxItem Content="가루약 (Powder)"/>
+                <ComboBoxItem Content="외용제 (Ointment)"/>
+            </ComboBox>
+
+            <TextBlock Text="유통기한" FontWeight="Bold" Margin="0,0,0,5"/>
+            <DatePicker x:Name="DpExpiryDate" Height="40" Margin="0,0,0,30" VerticalContentAlignment="Center"/>
+
+            <Button x:Name="BtnSave" Content="등록하기" Click="BtnSave_Click"
+                    Height="50" Background="#2196F3" Foreground="White" FontWeight="Bold" FontSize="16"
+                    BorderThickness="0">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+        </StackPanel>
+    </Grid>
+</Page>
