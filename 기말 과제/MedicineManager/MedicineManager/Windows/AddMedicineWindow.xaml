@@ -1,0 +1,26 @@
+﻿<Window x:Class="MedicineManager.Windows.AddMedicineWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="새 약 등록" Height="350" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+    <StackPanel Margin="20">
+        <Label Content="약 이름" FontWeight="Bold"/>
+        <TextBox x:Name="NameBox" Height="30" Margin="0,0,0,10" 
+                 VerticalContentAlignment="Center" FontSize="14"/>
+
+        <Label Content="약 종류" FontWeight="Bold"/>
+        <ComboBox x:Name="TypeCombo" Height="30" Margin="0,0,0,10" 
+                  VerticalContentAlignment="Center" FontSize="14">
+            <ComboBoxItem Content="알약" IsSelected="True"/>
+            <ComboBoxItem Content="물약"/>
+            <ComboBoxItem Content="가루약"/>
+        </ComboBox>
+
+        <Label Content="유통기한" FontWeight="Bold"/>
+        <DatePicker x:Name="DatePicker" Height="30" Margin="0,0,0,20" 
+                    VerticalContentAlignment="Center" FontSize="14"/>
+
+        <Button Content="등록하기" Height="40" Background="#0078D7" Foreground="White" 
+                FontSize="15" FontWeight="Bold" Click="ConfirmBtn_Click"/>
+    </StackPanel>
+</Window>

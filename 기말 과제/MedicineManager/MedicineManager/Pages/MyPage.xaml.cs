@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using MedicineManager.Models;  // Medicine 클래스를 쓰기 위해 필요
+using MedicineManager.Windows; // 팝업창들을 쓰기 위해 필요
 
 namespace MedicineManager.Pages
 {

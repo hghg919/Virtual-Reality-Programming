@@ -28,3 +28,8 @@ C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제
 C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.g.cs
 C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.g.cs
 C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.lref
