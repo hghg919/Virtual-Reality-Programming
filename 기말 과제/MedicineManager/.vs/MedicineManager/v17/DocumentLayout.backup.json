@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uAE30\uB9D0 \uACFC\uC81C\\MedicineManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D61CFC5-3267-496B-810D-076347804152}|MedicineManager\\MedicineManager.csproj|c:\\users\\tgeq1\\desktop\\1\uD559\uB144 2\uD559\uAE30\\virtual-reality-programming\\\uAE30\uB9D0 \uACFC\uC81C\\medicinemanager\\medicinemanager\\pages\\mypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2D61CFC5-3267-496B-810D-076347804152}|MedicineManager\\MedicineManager.csproj|solutionrelative:medicinemanager\\pages\\mypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D61CFC5-3267-496B-810D-076347804152}|MedicineManager\\MedicineManager.csproj|c:\\users\\tgeq1\\desktop\\1\uD559\uB144 2\uD559\uAE30\\virtual-reality-programming\\\uAE30\uB9D0 \uACFC\uC81C\\medicinemanager\\medicinemanager\\pages\\mypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D61CFC5-3267-496B-810D-076347804152}|MedicineManager\\MedicineManager.csproj|solutionrelative:medicinemanager\\pages\\mypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D61CFC5-3267-496B-810D-076347804152}|MedicineManager\\MedicineManager.csproj|c:\\users\\tgeq1\\desktop\\1\uD559\uB144 2\uD559\uAE30\\virtual-reality-programming\\\uAE30\uB9D0 \uACFC\uC81C\\medicinemanager\\medicinemanager\\mainmainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2D61CFC5-3267-496B-810D-076347804152}|MedicineManager\\MedicineManager.csproj|solutionrelative:medicinemanager\\mainmainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -31,44 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MyPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uAE30\uB9D0 \uACFC\uC81C\\MedicineManager\\MedicineManager\\Pages\\MyPage.xaml.cs",
-              "RelativeDocumentMoniker": "MedicineManager\\Pages\\MyPage.xaml.cs",
-              "ToolTip": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uAE30\uB9D0 \uACFC\uC81C\\MedicineManager\\MedicineManager\\Pages\\MyPage.xaml.cs",
-              "RelativeToolTip": "MedicineManager\\Pages\\MyPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T02:05:42.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyPage.xaml",
-              "DocumentMoniker": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uAE30\uB9D0 \uACFC\uC81C\\MedicineManager\\MedicineManager\\Pages\\MyPage.xaml",
-              "RelativeDocumentMoniker": "MedicineManager\\Pages\\MyPage.xaml",
-              "ToolTip": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uAE30\uB9D0 \uACFC\uC81C\\MedicineManager\\MedicineManager\\Pages\\MyPage.xaml",
-              "RelativeToolTip": "MedicineManager\\Pages\\MyPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-10T02:05:39.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "MainMainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uAE30\uB9D0 \uACFC\uC81C\\MedicineManager\\MedicineManager\\MainMainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MedicineManager\\MainMainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uAE30\uB9D0 \uACFC\uC81C\\MedicineManager\\MedicineManager\\MainMainWindow.xaml.cs",
               "RelativeToolTip": "MedicineManager\\MainMainWindow.xaml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwCwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T00:20:58.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainMainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\tgeq1\\Desktop\\1\uD559\uB144 2\uD559\uAE30\\Virtual-Reality-Programming\\\uAE30\uB9D0 \uACFC\uC81C\\MedicineManager\\MedicineManager\\MainMainWindow.xaml",
               "RelativeDocumentMoniker": "MedicineManager\\MainMainWindow.xaml",
