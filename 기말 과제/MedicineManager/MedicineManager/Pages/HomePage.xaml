@@ -59,8 +59,9 @@
                         </Grid>
                     </Viewbox>
 
-                    <StackPanel x:Name="PieLegendPanel" Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5,0,0">
-                    </StackPanel>
+                    <WrapPanel x:Name="PieLegendPanel" Grid.Row="2" Orientation="Horizontal" 
+                               HorizontalAlignment="Center" VerticalAlignment="Center"
+                               Margin="0,5,0,0"/>
                 </Grid>
             </Border>
 

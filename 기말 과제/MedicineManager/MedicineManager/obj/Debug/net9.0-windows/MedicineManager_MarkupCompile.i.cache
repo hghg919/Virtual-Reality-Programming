@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\
 MedicineManager
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\App.xaml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\App.xaml
 8325620916
 
 15-1432831772
-200-1531957912
+200-44685031
 MainMainWindow.xaml;Pages\CalendarPage.xaml;Pages\ChartPage.xaml;Pages\HomePage.xaml;Pages\MyPage.xaml;Pages\RegisterPage.xaml;Windows\AddMedicineWindow.xaml;Windows\DetailMedicineWindow.xaml;
 
-True
+False
 

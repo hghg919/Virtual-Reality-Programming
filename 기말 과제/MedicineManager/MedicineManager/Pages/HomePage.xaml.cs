@@ -32,9 +32,9 @@ namespace MedicineManager.Pages
             };
         }
 
-        // ... (달력 관련 이벤트 코드들은 기존과 동일, 생략) ...
-        // HomeCalendar_SelectedDatesChanged, HomeCalendar_LayoutUpdated 등 기존 코드 유지하세요.
-
+        // =========================================================
+        // [이벤트] 달력 관련 (이동 및 색칠)
+        // =========================================================
         private void HomeCalendar_SelectedDatesChanged(object sender, SelectionChangedEventArgs e)
         {
             if (HomeCalendar.SelectedDate.HasValue)
@@ -58,12 +58,13 @@ namespace MedicineManager.Pages
             }
         }
 
-
-        // [기능] 원형 차트 (범례 추가됨)
+        // =========================================================
+        // [기능] 원형 차트 (범례 줄바꿈 및 간격 수정됨)
+        // =========================================================
         private void DrawPieChart()
         {
             PieChartCanvas.Children.Clear();
-            PieLegendPanel.Children.Clear(); // 범례 초기화
+            PieLegendPanel.Children.Clear();
             double total = allMedicines.Count;
 
             if (total == 0) return;
@@ -94,22 +95,31 @@ namespace MedicineManager.Pages
             }
         }
 
-        // [보조] 홈 화면용 작은 범례 만들기
+        // [수정됨] 간격(Margin)을 줄여서 한 줄에 많이 들어가게 함
         private void AddHomeLegend(Color color, string name, double percent)
         {
             // 작은 색상 원
-            Ellipse dot = new Ellipse { Width = 8, Height = 8, Fill = new SolidColorBrush(color), Margin = new Thickness(0, 0, 4, 0) };
-            // 텍스트 (예: 알약 20%)
-            TextBlock text = new TextBlock { Text = $"{name} {percent:P0}", FontSize = 9, Foreground = Brushes.Gray, Margin = new Thickness(0, 0, 8, 0) };
+            Ellipse dot = new Ellipse { Width = 8, Height = 8, Fill = new SolidColorBrush(color), Margin = new Thickness(0, 0, 3, 0) };
 
-            StackPanel panel = new StackPanel { Orientation = Orientation.Horizontal };
+            // 텍스트 (오른쪽 마진을 8 -> 4로 줄임)
+            TextBlock text = new TextBlock
+            {
+                Text = $"{name} {percent:P0}",
+                FontSize = 9,
+                Foreground = Brushes.Gray,
+                Margin = new Thickness(0, 0, 4, 0) // <-- 여기를 줄임
+            };
+
+            StackPanel panel = new StackPanel { Orientation = Orientation.Horizontal, Margin = new Thickness(0, 0, 2, 2) }; // 패널 간격 미세 조정
             panel.Children.Add(dot);
             panel.Children.Add(text);
 
             PieLegendPanel.Children.Add(panel);
         }
 
-        // [기능] 막대 차트 (숫자 표시 추가됨)
+        // =========================================================
+        // [기능] 막대 차트 (숫자 표시)
+        // =========================================================
         private void DrawBarChart()
         {
             DateTime today = DateTime.Today;
@@ -130,17 +140,15 @@ namespace MedicineManager.Pages
 
             double maxHeight = 50;
 
-            // 막대 높이 설정
+            // 막대 높이 및 숫자 텍스트 설정
             BarMonth1.Height = (maxCount > 0) ? (counts[0] / (double)maxCount) * maxHeight : 0;
             BarMonth2.Height = (maxCount > 0) ? (counts[1] / (double)maxCount) * maxHeight : 0;
             BarMonth3.Height = (maxCount > 0) ? (counts[2] / (double)maxCount) * maxHeight : 0;
 
-            // [추가] 막대 위 숫자 텍스트 설정
             CountMonth1.Text = counts[0].ToString();
             CountMonth2.Text = counts[1].ToString();
             CountMonth3.Text = counts[2].ToString();
 
-            // 개수가 0이면 숫자도 흐리게 하거나 안보이게 하려면 아래처럼 (선택사항)
             CountMonth1.Visibility = counts[0] > 0 ? Visibility.Visible : Visibility.Hidden;
             CountMonth2.Visibility = counts[1] > 0 ? Visibility.Visible : Visibility.Hidden;
             CountMonth3.Visibility = counts[2] > 0 ? Visibility.Visible : Visibility.Hidden;
