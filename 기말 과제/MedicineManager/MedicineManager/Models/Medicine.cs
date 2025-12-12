@@ -1,7 +1,8 @@
 ﻿using System;
 using System.ComponentModel;
 using System.IO;
-using System.Windows.Media.Imaging; // 이미지 처리용
+using System.Windows.Media.Imaging;
+using SQLite; // SQLite 사용 (PrimaryKey 등)
 
 namespace MedicineManager.Models
 {
@@ -9,16 +10,18 @@ namespace MedicineManager.Models
     {
         public event PropertyChangedEventHandler PropertyChanged;
 
-        private bool _isChecked;
+        [PrimaryKey, AutoIncrement]
+        public int Id { get; set; }
+
+        // ★ 이 부분이 없어서 오류가 났던 것입니다! (주인 연동용)
+        public string UserId { get; set; }
+
         private string _name;
         private string _type;
         private DateTime _expiryDate;
-
-        // [추가됨] 메모 기능
         private string _memo;
-
-        // [추가됨] DB 저장용 이미지 데이터 (BLOB)
         private byte[] _imageBytes;
+        private bool _isChecked;
 
         public string Name
         {
@@ -35,28 +38,20 @@ namespace MedicineManager.Models
         public DateTime ExpiryDate
         {
             get => _expiryDate;
-            set
-            {
-                _expiryDate = value;
+            set 
+            { 
+                _expiryDate = value; 
                 OnPropertyChanged("ExpiryDate");
-                OnPropertyChanged("IsExpired");
+                OnPropertyChanged("IsExpired"); 
             }
         }
 
-        public bool IsChecked
-        {
-            get => _isChecked;
-            set { _isChecked = value; OnPropertyChanged("IsChecked"); }
-        }
-
-        // [추가] 메모
         public string Memo
         {
             get => _memo;
             set { _memo = value; OnPropertyChanged("Memo"); }
         }
 
-        // [추가] 이미지 데이터 (DB 저장용)
         public byte[] ImageBytes
         {
             get => _imageBytes;
@@ -64,11 +59,11 @@ namespace MedicineManager.Models
             {
                 _imageBytes = value;
                 OnPropertyChanged("ImageBytes");
-                OnPropertyChanged("DisplayImage"); // 데이터 바뀌면 화면 이미지도 갱신
+                OnPropertyChanged("DisplayImage");
             }
         }
 
-        // [추가] 화면 표시용 이미지 (데이터 바인딩용)
+        [Ignore]
         public BitmapImage DisplayImage
         {
             get
@@ -76,7 +71,6 @@ namespace MedicineManager.Models
                 if (_imageBytes == null || _imageBytes.Length == 0) return null;
                 try
                 {
-                    // 바이트 배열 -> 이미지 변환 로직
                     using (var ms = new MemoryStream(_imageBytes))
                     {
                         var image = new BitmapImage();
@@ -91,6 +85,14 @@ namespace MedicineManager.Models
             }
         }
 
+        [Ignore]
+        public bool IsChecked
+        {
+            get => _isChecked;
+            set { _isChecked = value; OnPropertyChanged("IsChecked"); }
+        }
+
+        [Ignore]
         public bool IsExpired => DateTime.Now.Date > ExpiryDate.Date;
 
         protected void OnPropertyChanged(string name)

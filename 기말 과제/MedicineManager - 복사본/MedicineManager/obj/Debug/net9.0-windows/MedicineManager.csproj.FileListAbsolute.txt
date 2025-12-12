@@ -1,0 +1,70 @@
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.g.resources
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfoInputs.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfo.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.CoreCompileInputs.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.sourcelink.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.exe
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.deps.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.runtimeconfig.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\refint\MedicineManager.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.genruntimeconfig.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\ref\MedicineManager.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.lref
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.deps.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.runtimeconfig.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.lref
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.g.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfoInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfo.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.sourcelink.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\refint\MedicineManager.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.genruntimeconfig.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\ref\MedicineManager.dll
