@@ -1,13 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Data.SQLite;
+using System.IO;
 
 namespace MedicineManager.Models
 {
     public static class DBHelper
     {
+        // 실행 파일 위치에 medicine.db 생성
         private static string dbPath = "Data Source=medicine.db;Version=3;";
 
-        // 1. 초기화
+        // 1. 초기화: 테이블이 없으면 생성
         public static void Initialize()
         {
             try
@@ -16,29 +19,32 @@ namespace MedicineManager.Models
                 {
                     conn.Open();
 
-                    string createUsersTable =
-                        @"CREATE TABLE IF NOT EXISTS Users (
-                            Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                            UserID TEXT NOT NULL UNIQUE,
-                            Password TEXT NOT NULL,
-                            Name TEXT,
-                            Phone TEXT,
-                            Birth TEXT,
-                            ProfileImage BLOB
-                        );";
-                    SQLiteCommand cmdUser = new SQLiteCommand(createUsersTable, conn);
+                    // (1) 유저 테이블
+                    string createUsers = @"CREATE TABLE IF NOT EXISTS Users (
+                                            Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                                            UserID TEXT NOT NULL UNIQUE,
+                                            Password TEXT NOT NULL,
+                                            Name TEXT,
+                                            Phone TEXT,
+                                            Birth TEXT,
+                                            ProfileImage BLOB
+                                         );";
+                    SQLiteCommand cmdUser = new SQLiteCommand(createUsers, conn);
                     cmdUser.ExecuteNonQuery();
 
-                    string createMedicinesTable =
-                        @"CREATE TABLE IF NOT EXISTS Medicines (
-                            Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                            OwnerId INTEGER NOT NULL,
-                            Name TEXT NOT NULL,
-                            DailyCount INTEGER,
-                            Memo TEXT,
-                            FOREIGN KEY(OwnerId) REFERENCES Users(Id)
-                        );";
-                    SQLiteCommand cmdMedi = new SQLiteCommand(createMedicinesTable, conn);
+                    // (2) 약품 테이블 (프로그램 UI에 맞춰 수정됨)
+                    // OwnerId: 누구의 약인지 구분하기 위한 외래키
+                    string createMedicines = @"CREATE TABLE IF NOT EXISTS Medicines (
+                                                Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                                                OwnerId INTEGER NOT NULL,
+                                                Name TEXT NOT NULL,
+                                                Type TEXT,
+                                                ExpiryDate TEXT,
+                                                Memo TEXT,
+                                                ImageBytes BLOB,
+                                                FOREIGN KEY(OwnerId) REFERENCES Users(Id)
+                                             );";
+                    SQLiteCommand cmdMedi = new SQLiteCommand(createMedicines, conn);
                     cmdMedi.ExecuteNonQuery();
                 }
             }
@@ -48,7 +54,9 @@ namespace MedicineManager.Models
             }
         }
 
-        // 2. 회원가입
+        // =========================================================
+        // [유저 관련 기능] (로그인, 회원가입 등)
+        // =========================================================
         public static bool InsertUser(string userId, string password, string name, string phone, string birth)
         {
             try
@@ -56,27 +64,20 @@ namespace MedicineManager.Models
                 using (SQLiteConnection conn = new SQLiteConnection(dbPath))
                 {
                     conn.Open();
-                    string sql = @"INSERT INTO Users (UserID, Password, Name, Phone, Birth)
-                                   VALUES (@userId, @password, @name, @phone, @birth)";
-
+                    string sql = "INSERT INTO Users (UserID, Password, Name, Phone, Birth) VALUES (@u, @p, @n, @ph, @b)";
                     SQLiteCommand cmd = new SQLiteCommand(sql, conn);
-                    cmd.Parameters.AddWithValue("@userId", userId);
-                    cmd.Parameters.AddWithValue("@password", password);
-                    cmd.Parameters.AddWithValue("@name", name);
-                    cmd.Parameters.AddWithValue("@phone", phone);
-                    cmd.Parameters.AddWithValue("@birth", birth);
+                    cmd.Parameters.AddWithValue("@u", userId);
+                    cmd.Parameters.AddWithValue("@p", password);
+                    cmd.Parameters.AddWithValue("@n", name);
+                    cmd.Parameters.AddWithValue("@ph", phone);
+                    cmd.Parameters.AddWithValue("@b", birth);
                     cmd.ExecuteNonQuery();
                 }
                 return true;
             }
-            catch (Exception ex)
-            {
-                System.Windows.MessageBox.Show("회원가입 오류: " + ex.Message);
-                return false;
-            }
+            catch { return false; }
         }
 
-        // 3. 로그인 확인
         public static bool CheckLogin(string userId, string password)
         {
             try
@@ -84,22 +85,16 @@ namespace MedicineManager.Models
                 using (SQLiteConnection conn = new SQLiteConnection(dbPath))
                 {
                     conn.Open();
-                    string sql = "SELECT COUNT(*) FROM Users WHERE UserID = @userId AND Password = @password";
+                    string sql = "SELECT COUNT(*) FROM Users WHERE UserID = @u AND Password = @p";
                     SQLiteCommand cmd = new SQLiteCommand(sql, conn);
-                    cmd.Parameters.AddWithValue("@userId", userId);
-                    cmd.Parameters.AddWithValue("@password", password);
-                    long count = (long)cmd.ExecuteScalar();
-                    return count > 0;
+                    cmd.Parameters.AddWithValue("@u", userId);
+                    cmd.Parameters.AddWithValue("@p", password);
+                    return (long)cmd.ExecuteScalar() > 0;
                 }
             }
-            catch (Exception ex)
-            {
-                System.Windows.MessageBox.Show("로그인 확인 오류: " + ex.Message);
-                return false;
-            }
+            catch { return false; }
         }
 
-        // 4. 아이디 중복 확인
         public static bool IsUserExists(string userId)
         {
             try
@@ -107,21 +102,15 @@ namespace MedicineManager.Models
                 using (SQLiteConnection conn = new SQLiteConnection(dbPath))
                 {
                     conn.Open();
-                    string sql = "SELECT COUNT(*) FROM Users WHERE UserID = @userId";
+                    string sql = "SELECT COUNT(*) FROM Users WHERE UserID = @u";
                     SQLiteCommand cmd = new SQLiteCommand(sql, conn);
-                    cmd.Parameters.AddWithValue("@userId", userId);
-                    long count = (long)cmd.ExecuteScalar();
-                    return count > 0;
+                    cmd.Parameters.AddWithValue("@u", userId);
+                    return (long)cmd.ExecuteScalar() > 0;
                 }
             }
-            catch (Exception ex)
-            {
-                System.Windows.MessageBox.Show("ID 중복 확인 오류: " + ex.Message);
-                return false;
-            }
+            catch { return false; }
         }
 
-        // 5. [수정됨] 유저 정보 가져오기 (전화번호, 생년월일 추가)
         public static UserInfo GetUser(string userId)
         {
             try
@@ -129,43 +118,33 @@ namespace MedicineManager.Models
                 using (SQLiteConnection conn = new SQLiteConnection(dbPath))
                 {
                     conn.Open();
-                    string sql = "SELECT * FROM Users WHERE UserID = @userId";
+                    string sql = "SELECT * FROM Users WHERE UserID = @u";
                     SQLiteCommand cmd = new SQLiteCommand(sql, conn);
-                    cmd.Parameters.AddWithValue("@userId", userId);
-
-                    using (SQLiteDataReader reader = cmd.ExecuteReader())
+                    cmd.Parameters.AddWithValue("@u", userId);
+                    using (SQLiteDataReader r = cmd.ExecuteReader())
                     {
-                        if (reader.Read())
+                        if (r.Read())
                         {
-                            UserInfo user = new UserInfo
+                            UserInfo u = new UserInfo
                             {
-                                Id = int.Parse(reader["Id"].ToString()),
-                                UserId = reader["UserID"].ToString(),
-                                Name = reader["Name"].ToString(),
-
-                                // ★ DB 값을 UserInfo에 채워넣는 부분 추가
-                                Phone = reader["Phone"].ToString(),
-                                Birth = reader["Birth"].ToString()
+                                Id = Convert.ToInt32(r["Id"]),
+                                UserId = r["UserID"].ToString(),
+                                Name = r["Name"].ToString(),
+                                Phone = r["Phone"].ToString(),
+                                Birth = r["Birth"].ToString()
                             };
-
-                            if (reader["ProfileImage"] != DBNull.Value)
-                            {
-                                user.ProfileImage = (byte[])reader["ProfileImage"];
-                            }
-                            return user;
+                            if (r["ProfileImage"] != DBNull.Value)
+                                u.ProfileImage = (byte[])r["ProfileImage"];
+                            return u;
                         }
                     }
                 }
             }
-            catch (Exception ex)
-            {
-                System.Windows.MessageBox.Show("정보 로드 오류: " + ex.Message);
-            }
+            catch { }
             return null;
         }
 
-        // 6. 프로필 사진 업데이트
-        public static bool UpdateProfileImage(int userId, byte[] imageBytes)
+        public static bool UpdateProfileImage(int id, byte[] img)
         {
             try
             {
@@ -174,22 +153,16 @@ namespace MedicineManager.Models
                     conn.Open();
                     string sql = "UPDATE Users SET ProfileImage = @img WHERE Id = @id";
                     SQLiteCommand cmd = new SQLiteCommand(sql, conn);
-                    cmd.Parameters.AddWithValue("@img", imageBytes);
-                    cmd.Parameters.AddWithValue("@id", userId);
+                    cmd.Parameters.AddWithValue("@img", img);
+                    cmd.Parameters.AddWithValue("@id", id);
                     cmd.ExecuteNonQuery();
                 }
                 return true;
             }
-            catch (Exception ex)
-            {
-                System.Windows.MessageBox.Show("사진 저장 오류: " + ex.Message);
-                return false;
-            }
+            catch { return false; }
         }
 
-        // 7. 개인정보 수정 (비번, 이름, 전화번호, 생년월일)
-// 7. [수정됨] 개인정보 수정 (비번이 비어있으면 기존 비번 유지)
-        public static bool UpdateUserInfo(int id, string newPw, string newName, string newPhone, string newBirth)
+        public static bool UpdateUserInfo(int id, string pw, string name, string phone, string birth)
         {
             try
             {
@@ -199,35 +172,147 @@ namespace MedicineManager.Models
                     string sql;
                     SQLiteCommand cmd = new SQLiteCommand(conn);
 
-                    // 1) 비밀번호 칸이 비어있으면 -> 비밀번호 빼고 업데이트
-                    if (string.IsNullOrWhiteSpace(newPw))
-                    {
-                        sql = @"UPDATE Users 
-                                SET Name = @name, Phone = @phone, Birth = @birth
-                                WHERE Id = @id";
-                    }
-                    // 2) 비밀번호가 있으면 -> 비밀번호 포함해서 업데이트
+                    if (string.IsNullOrWhiteSpace(pw))
+                        sql = "UPDATE Users SET Name=@n, Phone=@ph, Birth=@b WHERE Id=@id";
                     else
                     {
-                        sql = @"UPDATE Users 
-                                SET Password = @pw, Name = @name, Phone = @phone, Birth = @birth
-                                WHERE Id = @id";
-                        cmd.Parameters.AddWithValue("@pw", newPw); // 비번 파라미터 추가
+                        sql = "UPDATE Users SET Password=@p, Name=@n, Phone=@ph, Birth=@b WHERE Id=@id";
+                        cmd.Parameters.AddWithValue("@p", pw);
                     }
-
                     cmd.CommandText = sql;
-                    cmd.Parameters.AddWithValue("@name", newName);
-                    cmd.Parameters.AddWithValue("@phone", newPhone);
-                    cmd.Parameters.AddWithValue("@birth", newBirth);
+                    cmd.Parameters.AddWithValue("@n", name);
+                    cmd.Parameters.AddWithValue("@ph", phone);
+                    cmd.Parameters.AddWithValue("@b", birth);
                     cmd.Parameters.AddWithValue("@id", id);
-
                     cmd.ExecuteNonQuery();
                 }
                 return true;
             }
+            catch { return false; }
+        }
+
+        // =========================================================
+        // [약품 관련 기능] (조회, 추가, 수정, 삭제)
+        // =========================================================
+
+        // 1. 조회: 로그인한 사용자의 약만 가져옴
+        public static List<Medicine> GetMedicines(int ownerId)
+        {
+            List<Medicine> list = new List<Medicine>();
+            try
+            {
+                using (SQLiteConnection conn = new SQLiteConnection(dbPath))
+                {
+                    conn.Open();
+                    string sql = "SELECT * FROM Medicines WHERE OwnerId = @oid";
+                    SQLiteCommand cmd = new SQLiteCommand(sql, conn);
+                    cmd.Parameters.AddWithValue("@oid", ownerId);
+
+                    using (SQLiteDataReader r = cmd.ExecuteReader())
+                    {
+                        while (r.Read())
+                        {
+                            Medicine m = new Medicine
+                            {
+                                Id = Convert.ToInt32(r["Id"]),
+                                Name = r["Name"].ToString(),
+                                Type = r["Type"].ToString(),
+                                Memo = r["Memo"].ToString(),
+                                ExpiryDate = DateTime.Parse(r["ExpiryDate"].ToString())
+                            };
+                            if (r["ImageBytes"] != DBNull.Value)
+                            {
+                                m.ImageBytes = (byte[])r["ImageBytes"];
+                            }
+                            list.Add(m);
+                        }
+                    }
+                }
+            }
             catch (Exception ex)
             {
-                System.Windows.MessageBox.Show("정보 수정 오류: " + ex.Message);
+                System.Windows.MessageBox.Show("약 목록 로드 오류: " + ex.Message);
+            }
+            return list;
+        }
+
+        // 2. 추가: DB에 약 저장하고 생성된 ID 반환
+        public static int InsertMedicine(int ownerId, Medicine med)
+        {
+            try
+            {
+                using (SQLiteConnection conn = new SQLiteConnection(dbPath))
+                {
+                    conn.Open();
+                    string sql = @"INSERT INTO Medicines (OwnerId, Name, Type, ExpiryDate, Memo, ImageBytes) 
+                                   VALUES (@oid, @name, @type, @date, @memo, @img);
+                                   SELECT last_insert_rowid();";
+
+                    SQLiteCommand cmd = new SQLiteCommand(sql, conn);
+                    cmd.Parameters.AddWithValue("@oid", ownerId);
+                    cmd.Parameters.AddWithValue("@name", med.Name);
+                    cmd.Parameters.AddWithValue("@type", med.Type);
+                    cmd.Parameters.AddWithValue("@date", med.ExpiryDate.ToString("yyyy-MM-dd"));
+                    cmd.Parameters.AddWithValue("@memo", med.Memo ?? "");
+                    cmd.Parameters.AddWithValue("@img", med.ImageBytes);
+
+                    return Convert.ToInt32(cmd.ExecuteScalar());
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Windows.MessageBox.Show("약 등록 오류: " + ex.Message);
+                return -1;
+            }
+        }
+
+        // 3. 수정: 약 정보 업데이트
+        public static bool UpdateMedicine(Medicine med)
+        {
+            try
+            {
+                using (SQLiteConnection conn = new SQLiteConnection(dbPath))
+                {
+                    conn.Open();
+                    string sql = @"UPDATE Medicines 
+                                   SET Name=@name, Type=@type, ExpiryDate=@date, Memo=@memo, ImageBytes=@img
+                                   WHERE Id=@id";
+
+                    SQLiteCommand cmd = new SQLiteCommand(sql, conn);
+                    cmd.Parameters.AddWithValue("@name", med.Name);
+                    cmd.Parameters.AddWithValue("@type", med.Type);
+                    cmd.Parameters.AddWithValue("@date", med.ExpiryDate.ToString("yyyy-MM-dd"));
+                    cmd.Parameters.AddWithValue("@memo", med.Memo ?? "");
+                    cmd.Parameters.AddWithValue("@img", med.ImageBytes);
+                    cmd.Parameters.AddWithValue("@id", med.Id);
+
+                    return cmd.ExecuteNonQuery() > 0;
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Windows.MessageBox.Show("약 수정 오류: " + ex.Message);
+                return false;
+            }
+        }
+
+        // 4. 삭제: 약 제거
+        public static bool DeleteMedicine(int id)
+        {
+            try
+            {
+                using (SQLiteConnection conn = new SQLiteConnection(dbPath))
+                {
+                    conn.Open();
+                    string sql = "DELETE FROM Medicines WHERE Id = @id";
+                    SQLiteCommand cmd = new SQLiteCommand(sql, conn);
+                    cmd.Parameters.AddWithValue("@id", id);
+                    return cmd.ExecuteNonQuery() > 0;
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Windows.MessageBox.Show("삭제 오류: " + ex.Message);
                 return false;
             }
         }

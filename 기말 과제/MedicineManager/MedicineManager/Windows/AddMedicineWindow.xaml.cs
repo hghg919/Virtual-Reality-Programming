@@ -27,11 +27,7 @@ namespace MedicineManager.Windows
             if (selected != null && selected.Name != "직접 입력")
             {
                 TxtName.Text = selected.Name;
-
-                // [수정] 콤보박스의 텍스트를 자동으로 바꿔줍니다.
-                // IsEditable="True"이기 때문에 Text 속성에 넣으면 알아서 선택되거나 입력됩니다.
                 ComboType.Text = selected.Type;
-
                 TxtMemo.Text = selected.Memo;
             }
         }
@@ -61,16 +57,30 @@ namespace MedicineManager.Windows
                 return;
             }
 
-            NewMedicine = new Medicine
+            // 객체 생성
+            Medicine med = new Medicine
             {
                 Name = TxtName.Text,
-                Type = ComboType.Text, // [수정] 콤보박스 값을 가져옴
+                Type = ComboType.Text,
                 ExpiryDate = DateExpiry.SelectedDate ?? DateTime.Today,
                 Memo = TxtMemo.Text,
                 ImageBytes = currentImageBytes
             };
 
-            DialogResult = true;
+            // ★ DB에 저장 (INSERT)
+            int ownerId = DataManager.Instance.CurrentUser.Id;
+            int newId = DBHelper.InsertMedicine(ownerId, med);
+
+            if (newId > 0)
+            {
+                med.Id = newId; // DB에서 발급받은 ID 할당
+                NewMedicine = med;
+                DialogResult = true; // 창 닫고 성공 신호 보냄
+            }
+            else
+            {
+                // 실패 시 메시지는 DBHelper에서 띄움
+            }
         }
 
         private void BtnCancel_Click(object sender, RoutedEventArgs e)
