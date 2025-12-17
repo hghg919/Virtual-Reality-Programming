@@ -108,7 +108,7 @@ namespace MedicineManager {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MedicineManager;component/loginmain/joinpopup.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MedicineManager;V1.0.0.0;component/loginmain/joinpopup.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\loginmain\JoinPopup.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

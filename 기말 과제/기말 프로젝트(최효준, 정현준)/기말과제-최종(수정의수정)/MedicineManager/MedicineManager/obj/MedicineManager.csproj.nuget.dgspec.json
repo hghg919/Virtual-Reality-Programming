@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\기말과제-최종(수정의수정)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\MedicineManager.csproj": {}
+    "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\기말 과제\\기말 프로젝트(최효준, 정현준)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\MedicineManager.csproj": {}
   },
   "projects": {
-    "E:\\기말과제-최종(수정의수정)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\MedicineManager.csproj": {
+    "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\기말 과제\\기말 프로젝트(최효준, 정현준)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\MedicineManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\기말과제-최종(수정의수정)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\MedicineManager.csproj",
+        "projectUniqueName": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\기말 과제\\기말 프로젝트(최효준, 정현준)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\MedicineManager.csproj",
         "projectName": "MedicineManager",
-        "projectPath": "E:\\기말과제-최종(수정의수정)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\MedicineManager.csproj",
+        "projectPath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\기말 과제\\기말 프로젝트(최효준, 정현준)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\MedicineManager.csproj",
         "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-        "outputPath": "E:\\기말과제-최종(수정의수정)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\obj\\",
+        "outputPath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\기말 과제\\기말 프로젝트(최효준, 정현준)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

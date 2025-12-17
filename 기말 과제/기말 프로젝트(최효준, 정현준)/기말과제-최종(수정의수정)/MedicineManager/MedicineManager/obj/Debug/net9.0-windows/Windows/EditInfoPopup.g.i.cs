@@ -92,7 +92,7 @@ namespace MedicineManager.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MedicineManager;component/windows/editinfopopup.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MedicineManager;V1.0.0.0;component/windows/editinfopopup.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\EditInfoPopup.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

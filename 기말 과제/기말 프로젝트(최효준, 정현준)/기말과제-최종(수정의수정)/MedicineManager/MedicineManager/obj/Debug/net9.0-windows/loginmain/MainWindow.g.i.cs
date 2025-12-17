@@ -52,7 +52,7 @@ namespace MedicineManager {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MedicineManager;component/loginmain/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MedicineManager;V1.0.0.0;component/loginmain/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\loginmain\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

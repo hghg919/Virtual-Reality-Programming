@@ -84,7 +84,7 @@ namespace MedicineManager.Pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MedicineManager;component/pages/mypage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MedicineManager;V1.0.0.0;component/pages/mypage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Pages\MyPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

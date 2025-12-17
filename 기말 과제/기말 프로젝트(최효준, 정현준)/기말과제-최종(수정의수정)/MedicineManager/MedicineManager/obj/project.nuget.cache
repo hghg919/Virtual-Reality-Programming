@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lGcEuAku67E=",
+  "dgSpecHash": "fhUK8yPCkpQ=",
   "success": true,
-  "projectFilePath": "E:\\기말과제-최종(수정의수정)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\MedicineManager.csproj",
+  "projectFilePath": "C:\\Users\\PC1\\Desktop\\20250176\\Virtual-Reality-Programming\\기말 과제\\기말 프로젝트(최효준, 정현준)\\기말과제-최종(수정의수정)\\MedicineManager\\MedicineManager\\MedicineManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC1\\.nuget\\packages\\sqlite-net-pcl\\1.9.172\\sqlite-net-pcl.1.9.172.nupkg.sha512",
     "C:\\Users\\PC1\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.11\\sqlitepclraw.bundle_green.2.1.11.nupkg.sha512",
