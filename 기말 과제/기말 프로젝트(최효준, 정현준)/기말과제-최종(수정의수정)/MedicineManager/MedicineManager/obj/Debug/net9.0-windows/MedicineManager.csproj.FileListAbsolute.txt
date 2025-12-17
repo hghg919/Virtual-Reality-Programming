@@ -1,0 +1,397 @@
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.g.resources
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfoInputs.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfo.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.CoreCompileInputs.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.sourcelink.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.exe
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.deps.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.runtimeconfig.json
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\refint\MedicineManager.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.genruntimeconfig.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\ref\MedicineManager.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.lref
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.exe
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.deps.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.runtimeconfig.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.lref
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.baml
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.g.resources
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfoInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfo.cs
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.sourcelink.json
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\refint\MedicineManager.dll
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.genruntimeconfig.cache
+C:\Users\PC1\Desktop\20250176\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\ref\MedicineManager.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\JoinPopup.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\Login.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\MainWindow.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\JoinPopup.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\Login.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\MainWindow.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.AssemblyReference.cache
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Medicine.77D4BA18.Up2Date
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\EditInfoPopup.baml
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\EditInfoPopup.g.cs
+C:\Users\tgeq1\Desktop\1학년 2학기\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLite-net.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.exe
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.deps.json
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.runtimeconfig.json
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLite-net.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.AssemblyReference.cache
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\JoinPopup.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\Login.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\MainWindow.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\EditInfoPopup.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\JoinPopup.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\Login.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\MainWindow.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\EditInfoPopup.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.cache
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.lref
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.baml
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.g.resources
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfoInputs.cache
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfo.cs
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.CoreCompileInputs.cache
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.sourcelink.json
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Medicine.77D4BA18.Up2Date
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\refint\MedicineManager.dll
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.genruntimeconfig.cache
+C:\Users\Jung\Desktop\대학교\Virtual-Reality-Programming\기말 과제\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\ref\MedicineManager.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.exe
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.deps.json
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.runtimeconfig.json
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLite-net.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.AssemblyReference.cache
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\JoinPopup.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\Login.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\MainWindow.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\EditInfoPopup.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\JoinPopup.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\Login.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\MainWindow.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\EditInfoPopup.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.cache
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.lref
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.baml
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.g.resources
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfoInputs.cache
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfo.cs
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.CoreCompileInputs.cache
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Medicine.77D4BA18.Up2Date
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\refint\MedicineManager.dll
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.genruntimeconfig.cache
+C:\Users\goodp\Desktop\기말과제-최종(수정)1215\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\ref\MedicineManager.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.exe
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.deps.json
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.runtimeconfig.json
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLite-net.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.AssemblyReference.cache
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\JoinPopup.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\Login.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\MainWindow.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\EditInfoPopup.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\JoinPopup.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\Login.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\MainWindow.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\EditInfoPopup.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.cache
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.lref
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.baml
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.g.resources
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfoInputs.cache
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfo.cs
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.CoreCompileInputs.cache
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Medicine.77D4BA18.Up2Date
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\refint\MedicineManager.dll
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.pdb
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.genruntimeconfig.cache
+C:\Users\Jung\Desktop\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\ref\MedicineManager.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.exe
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.deps.json
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.runtimeconfig.json
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\MedicineManager.pdb
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLite-net.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.AssemblyReference.cache
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\JoinPopup.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\Login.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\MainWindow.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\EditInfoPopup.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\JoinPopup.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\Login.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\loginmain\MainWindow.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MainMainWindow.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\ChartPage.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\HomePage.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\MyPage.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\RegisterPage.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\AddMedicineWindow.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\DetailMedicineWindow.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Windows\EditInfoPopup.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\App.g.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.cache
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager_MarkupCompile.lref
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Pages\CalendarPage.baml
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.g.resources
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfoInputs.cache
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.AssemblyInfo.cs
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.csproj.CoreCompileInputs.cache
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\Medicine.77D4BA18.Up2Date
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\refint\MedicineManager.dll
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.pdb
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\MedicineManager.genruntimeconfig.cache
+E:\기말과제-최종(수정의수정)\기말과제-최종(수정의수정)\MedicineManager\MedicineManager\obj\Debug\net9.0-windows\ref\MedicineManager.dll
